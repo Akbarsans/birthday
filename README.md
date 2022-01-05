@@ -1,34 +1,33 @@
-Happy Birthday
+Selamat ulang tahun
 
-A Happy Birthday animation design in CSS3, HTML5.
+Desain animasi Selamat Ulang Tahun dalam CSS3, HTML5.
 
-URL: http://ayusharma.github.io/birthday/
+URL: https://akbarsans.github.io/birthday/
 
-Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
+Teknologi yang Digunakan: HTML5 CSS3 jQuery GNU/Linux Digital Ocean sebagai VPS GIMP
 
-# Setup
+# Mempersiapkan
 
-## If you have python installed:
+## Jika Anda telah menginstal python:
 ```
-cd Birthday
-```
-
-&& 
-
-```
-python -m SimpleHTTPServer --port  8081
+cd ulang tahun
 ```
 
-visit http://localhost:8081 in your browser.
+&&
 
-## If you have nodejs installed
 ```
-npm install
+python -m SimpleHTTPServer --port 8081
+```
+
+kunjungi http://localhost:8081 di browser Anda.
+
+## Jika Anda telah menginstal nodejs
+```
+instal npm
 ```
 &&
 
 ```
-npm run server-node
+npm menjalankan server-node
 ```
-visit http://localhost:8081 in your browser.
-
+kunjungi http://localhost:8081 di browser Anda.
